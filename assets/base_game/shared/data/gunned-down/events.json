@@ -1,0 +1,78 @@
+{
+	"song": {
+		"events": [
+			[
+				19800,
+				[
+					[
+						"Flash Camera",
+						"0.1",
+						""
+					],
+					[
+						"Change Character",
+						"gf",
+						"g1f"
+					],
+					[
+						"Change Character",
+						"bf",
+						"hmm1"
+					]
+				]
+			],
+			[
+				38500,
+				[
+					[
+						"Flash Camera",
+						"0.5",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf 60% corrupted"
+					],
+					[
+						"",
+						"gf",
+						"g1f"
+					]
+				]
+			],
+			[
+				53100,
+				[
+					[
+						"Change Character",
+						"gf",
+						"fuckingsavedgf"
+					],
+					[
+						"Flash Camera",
+						"5",
+						""
+					]
+				],
+				null,
+				"Bullet Note"
+			],
+			[
+				102400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf 80% corrupted"
+					],
+					[
+						"Flash Camera",
+						"3",
+						""
+					]
+				]
+			]
+		]
+	}
+}
