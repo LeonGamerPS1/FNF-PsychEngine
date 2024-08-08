@@ -5,7 +5,7 @@ local location = 'right' -- left, right, or center
 
 local icons = {P1 = {['left'] = true}, P2 = {['right'] = true}}
 
-local health = {['left'] = -230, ['right'] = 920, ['center'] = 364, y = 80}
+local health = {['left'] = -230, ['right'] = 920, ['center'] = 364, y = 80};
 local offset = {['left'] = 215,  ['right'] = 215, ['center'] = 215} -- for icons
 function onCreatePost()
 	setObjectOrder('timeBar', getObjectOrder('iconP2')+2)
