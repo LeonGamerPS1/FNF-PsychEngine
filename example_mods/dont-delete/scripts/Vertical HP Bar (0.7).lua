@@ -25,7 +25,7 @@ function onCreatePost()
 		setProperty('iconP1.flipX', icons.P1[location] or false)
 		setProperty('iconP2.flipX', icons.P2[location] or false)
 
-		scaleObject('healthBar', 0.93, 0.93)
+		scaleObject('healthBar', 0.93, 0.93);
 
 		setProperty('healthBar.angle', 90)
 		screenCenter('healthBar', 'x');
