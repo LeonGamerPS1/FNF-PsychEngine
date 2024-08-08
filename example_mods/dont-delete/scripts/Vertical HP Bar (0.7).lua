@@ -28,7 +28,7 @@ function onCreatePost()
 		scaleObject('healthBar', 0.93, 0.93)
 
 		setProperty('healthBar.angle', 90)
-		screenCenter('healthBar', 'x')
+		screenCenter('healthBar', 'x');
 		health['center'] = getProperty('healthBar.x') + 5
 
 		setProperty('healthBar.x', health[location] or health['right'])
